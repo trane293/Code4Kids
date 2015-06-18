@@ -4,16 +4,16 @@ We are looking for contributors for developing an ecosystem(Web site, apps) for 
 
 Anmol Sharma (DAV Institute of Engineering and Technology, Jalandhar) is our Pattern Recognition Geek and Harpinder Kaur(LPU) is our Big Data Geek Goddess. Nitika Rajput(LPU) is our creative mind.
 
-We are looking for experts in the following domain:
+We are looking for experts in the following domain:<br />
 
-1	Facial Recognition
-2	Application Architecture 
-3	XAMP Stack
-4	Designers(User Experience, Graphic, Web)
-5	Android Apps
-6	IOS Apps
-7	Database (MySQL)
-8	Project Documentation 
+1	Facial Recognition <br />
+2	Application Architecture <br />
+3	XAMP Stack <br />
+4	Designers(User Experience, Graphic, Web) <br />
+5	Android Apps <br />
+6	IOS Apps <br />
+7	Database (MySQL) <br />
+8	Project Documentation <br />
 
 The details for contributors are available at https://docs.google.com/document/d/1KFT1U3hdxM6rQzEUXti_j8afV07D-VeORxznK6wXuo8/edit?usp=sharing 
 
